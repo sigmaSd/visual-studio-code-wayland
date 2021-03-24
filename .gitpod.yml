@@ -1,1 +1,1 @@
-image: archlinux
+image: docker:archlinux
