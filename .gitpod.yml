@@ -1,1 +1,1 @@
-image: archlinux/archlinux:latest
+image: library/archlinux:latest
